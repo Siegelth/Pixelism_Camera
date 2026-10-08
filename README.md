@@ -2,11 +2,13 @@
 [![Latest Release](https://img.shields.io/github/v/release/Siegelth/Pixelism_Camera)](https://github.com/Siegelth/Pixelism_Camera/releases)
 
 
+
 I created a binary pixel camera, which is a project based on Android 12+ API.
 The shutter is activated by the volume button.
 - Kotlin
 - Android SDK 12
 - CameraX
+
 
 <h2>🖼️ UI</h2>
 <img width="216" height="480" alt="Screenshot_20250915-100759" src="https://github.com/user-attachments/assets/efb9d85b-b2c9-4d4e-b1c4-00744a7b2ab8" />
